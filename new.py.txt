@@ -1,0 +1,28 @@
+def add (x,y);
+<<<<<<< Updated upstream
+return;
+
+def sub(a,b);
+return;
+
+def mul(a,b);
+return;
+
+def div(a,b);
+return;
+
+def square(a,b);
+return;
+=======
+pass;
+
+def sub(a,b);
+pass;
+
+def mul(a,b);
+pass;
+
+def div(a,b);
+pass;
+>>>>>>> Stashed changes
+
