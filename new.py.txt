@@ -8,9 +8,6 @@ return;
 def mul(a,b);
 return;
 
-def div(a,b);
-return;
-
 def square(a,b);
 return;
 =======
